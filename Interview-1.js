@@ -30,4 +30,4 @@
 // -----------------------------------------------------(Interview question 2)NaN
 var isnotnumber = isNaN(Number.NaN);
 console.log(isnotnumber);
- 
+  
